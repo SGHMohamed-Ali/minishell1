@@ -1,8 +1,8 @@
 /*
 ** EPITECH PROJECT, 2018
-** parceuz.c
+** parc
 ** File description:
-** je l'ai appelé comme ça pour rien
+** parc
 */
 
 #include "../include/my.h"
