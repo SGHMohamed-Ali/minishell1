@@ -74,7 +74,7 @@ int	cdfunction(char **tab, char **env)
 	return (1);
 }
 
-void	switcher(char **tab, int sexe, char **env)
+void	switcher(char **tab, int idx, char **env)
 {
-	sexe == 1 ? cdfunction(tab, env) : 0;
+	idx == 1 ? cdfunction(tab, env) : 0;
 }
